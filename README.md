@@ -1,2 +1,2 @@
-# Tennis-Projects
-Code for miscellaneous tennis projects
+# Tennis Projects
+This repository stores code for any data projects related to tennis.
